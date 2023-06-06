@@ -1,0 +1,4 @@
+Students should list the advanced points they have completed:
+
+    - boids bounce off of obstacles (big blue circle)
+    - boids bounce off of each other
