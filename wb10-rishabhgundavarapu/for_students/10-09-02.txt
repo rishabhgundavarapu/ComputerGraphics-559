@@ -1,0 +1,12 @@
+Where did the image come from? 
+
+I googled for a simple smiley image. The  link is https://en.wikipedia.org/wiki/Smiley
+
+What lighting did you implement?
+
+I implemented a directional lighting in the z-axis.
+
+
+Did you do anything beyond basic texure with diffuse lighting (explain)?
+
+I got the yellow value and to make the smiley bump out like the mountains example previously.

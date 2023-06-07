@@ -1,0 +1,5 @@
+1. Input: Attributes of that vertex such as 3d vertex positions and uniforms. Output: It provides a screen position of the vertex and maybe varying variables
+
+
+2. Recieves as input : the properties of the fragment such as 2d screen position and interpolated varying variables
+   Gives output : more properties of the fragment such as the color

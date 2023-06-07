@@ -1,0 +1,6 @@
+Explain how your shader works. If your shader is based on some example, cite your source (with a link).
+
+I  modified the checkerboard from before to make a pattern of band-aids placed next to each other. I also modified the colors a bit
+in the .js file.
+I added the bandaids by changing the distance from the u and v from the center.
+
