@@ -1,0 +1,4 @@
+Student should list any advanced point features they implemented in this file
+1. 2 Copters
+2. Copters are cool looking vehicles, they have wisconsin logo on them :)
+3. clicking on anywhere in the canvas will turn the background black and make copters even more cool looking

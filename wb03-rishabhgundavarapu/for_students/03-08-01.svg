@@ -1,0 +1,29 @@
+<!-- here is a big, empty SVG! make it into something interesting! -->
+<!--- making the monkey side eye meme-->
+<!-- https://i.kym-cdn.com/entries/icons/original/000/030/710/dd0.png-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="600px" width="600px">
+    <!-- you can delete this big rectangle - it's just a placeholder -->
+    <g id='star'>
+  <polygon points="100,10 40,198 190,78 10,78 160,198"
+  style="fill:gold;fill-rule:nonzero;" />
+  </g>
+  <g id='face' transform='translate(100) scale(0.6)'>
+      <circle id='circ2' cx='300' cy='300' r='100' fill='brown'/>
+
+        <path d='M 393 250 C 330 220, 150,280 , 375 383' fill='#CC9966'/>
+        <g id='eyes' transform='translate(-15 -10.5)'>
+        <circle  id="circ1" cx="343" cy="303" r="2%" fill="white" />
+        <circle  id="circ1" cx="383" cy="303" r="2%" fill="white" />
+        <g id='pupils' transform='translate(-7,0)'>
+        <ellipse cx="343" cy="303" rx="5" ry="8" />
+        <ellipse cx="383" cy="303" rx="5" ry="8" />
+        </g>
+        </g>
+        <ellipse cx='370' cy= '333' rx='9' ry='7' fill='#964B00'/>
+        <line x1="375" y1="353" x2="330" y2="353" stroke="black" stroke-width='3'/>
+  </g>
+      <use   transform='translate(0,250)' stroke='black' href="#star" />
+  <use transform='translate(250,0)' stroke='black' stroke-width='3' href='#face' />
+
+</svg>
+
