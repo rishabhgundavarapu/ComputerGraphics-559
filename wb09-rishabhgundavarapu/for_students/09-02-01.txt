@@ -1,0 +1,7 @@
+Explain how you incorporated a material property map here and what its effect is (how can we see it?)
+I used a material map consisting of roughness and metalness.I also used a color map of dimaonds on both of the 
+spheres.
+ The sphere on the left has full roughness and metalness whereas the sphere on the right has full roughness and 0 metalness.
+It is very evident that the light only shines and can be visible on the left sphere. Only the metal parts of the sphere (black diamonds) to be exact
+shine light. The texture also has certain white spaces grayed with triangles to make this effect seem more apparent.
+The sphere on right does not reflect light since it does not have any metalness.

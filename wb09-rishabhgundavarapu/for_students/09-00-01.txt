@@ -1,0 +1,9 @@
+In this box, explain how you used each of the creation methods listed above
+
+For the question of using a real image, i took a photo of my phone and applied it on the box (inspired from the book example)
+
+I got multiple textures from the internet , all of them free to use. I used them for various assignments such as for skybox page,
+bump and normal maps page. I also credited them accordingly.
+
+For the texture made by me, I took an online picture pattern of diamonds and photoshpped it with grey diamond on it to show the difference.
+This was done on the material maps page.

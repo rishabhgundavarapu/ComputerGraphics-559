@@ -1,0 +1,11 @@
+Explain how you used a normal and bump map above
+
+From L to R, Bump Map , Combined (Color map+Normal), Normal Map on spheres
+
+The bump map resembles a brick wall but is very poor in doing so. The normal map does a much better job at providing depth to the sphere.
+Combining the normal map and a brick wall for the third sphere accurately creates the feeling of a brick wall.
+
+NORMAL MAP LINK : https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filterforge.com%2Ffilters%2F5117-normal.html&psig=AOvVaw1XDsEwFRZhaS-pcCGUvQ5R&ust=1681261553588000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDS9o_SoP4CFQAAAAAdAAAAABAE
+brick wall : https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fk-castle-brick-wall-diffuse-albedo-map-d-materials-hi-res-texture-image200247341&psig=AOvVaw0TSDUnTyYn_KGBI4OFY-va&ust=1681261741323000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDU75jSoP4CFQAAAAAdAAAAABAE
+
+

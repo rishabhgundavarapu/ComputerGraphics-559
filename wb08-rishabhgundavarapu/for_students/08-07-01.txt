@@ -1,0 +1,4 @@
+Please describe the vehicles you created and how you made them in this file 08-07-01.txt
+This is a simple car inspired from crossy road. I have used a boxgeometry for the body and then CylindricalGeometry for the wheels and rims.
+I also made windows and a roof using different colors as I couldnt find appropriate textures.
+Link to how the car looks: https://www.google.com/search?q=crossy+road+car&sxsrf=APwXEddB-F7hwimXA82ZBPVv2oJsyXdbwQ:1681161619043&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjep_OIn6D-AhUakIkEHSFWATwQ0pQJegQIBBAC&biw=1440&bih=821&dpr=2#imgrc=gpOnGKJ3Fz-RwM

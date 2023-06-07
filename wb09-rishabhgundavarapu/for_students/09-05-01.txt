@@ -1,0 +1,4 @@
+Explain why the object you chose is a good use case for environment mapping.
+The cube and sphere are good primitive objects to showcase environment mapping since they can easily reflect the environment.
+Explain where you got your textures and include any attributions here.
+Textures are from the internet https://github.com/thehashton/Three.js-Skybox/tree/master/img

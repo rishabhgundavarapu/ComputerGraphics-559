@@ -1,0 +1,9 @@
+Please describe the buildings you created in this file 08-06-01.txt
+The first building is a simple house with the texture provided. The roof is a Pyramid Hip. It has doors with windows on the front
+, windows on the side, and then a door with a window at the back.
+I got the texture online by googling at https://www.google.com/url?sa=i&url=https%3A%2F%2Farchitextures.org%2Ftextures%2F581&psig=AOvVaw1rR1pwUNE3yzxcEg0jreRt&ust=1681249237224000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjvsM6joP4CFQAAAAAdAAAAABAE
+The next one is a school (intended) with the red bricks texture. I couldn't find a texture with doors and windows that resembles a school. The roof here is a Box Gable and the texture was found online.
+The second roof texture was found at https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Froof-texture&psig=AOvVaw22BAyV7V_Yvlc8Dxh9he5M&ust=1681249372977000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCyho-koP4CFQAAAAAdAAAAABAE
+I also think the second building looks more like a prison than a school :(
+The simple tree in center is made of a cylinder and cone.
+

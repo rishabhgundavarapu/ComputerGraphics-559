@@ -1,0 +1,5 @@
+Explain where you got your textures and include any attributions here
+I was searching for skybox images when I came across this github repo of skybox images https://github.com/thehashton/Three.js-Skybox/tree/master/img
+I only used their images since I couldnt find some myself.
+Zooming out of the fake skybox will show that its only a cube with textures applied on the side.
+On the contrary, the actual skybox cannot be distuingushed like that.
