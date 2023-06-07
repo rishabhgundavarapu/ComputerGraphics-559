@@ -1,0 +1,2 @@
+Student explains where in the picture they connected Beziers for G(1) or C(1) continuity.
+The above is an hourglass figure. The center point where all the four curves come together is C(1) continuity
